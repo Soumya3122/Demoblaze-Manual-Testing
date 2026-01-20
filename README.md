@@ -78,25 +78,6 @@ To verify that the Demoblaze web application functions correctly and meets user 
 
 ## Defects Identified
 2
-
-## Conclusion
-The application is stable with minor issues that require attention.
-
-Test Case ID | Test Scenario | Test Steps | Expected Result | Actual Result | Status
-TC_01 | Login with valid credentials | Enter valid username & password | Login successful | Login successful | Pass
-TC_02 | Login with invalid credentials | Enter incorrect password | Error message displayed | Error message displayed | Pass
-TC_03 | Add product to cart | Select product and click Add to Cart | Product added successfully | Product added successfully | Pass
-TC_04 | Place order | Complete checkout process | Order placed successfully | Error message displayed | Fail
-
-Bug ID | Bug Summary | Steps to Reproduce | Expected Result | Actual Result | Severity | Status
-BUG_01 | Order not placed | Add item → Proceed to checkout | Order placed successfully | Error displayed | High | Open
-BUG_02 | Slow login response | Login with valid credentials | Instant login | Delayed response | Medium | Open
-
-Requirement ID | Requirement Description | Test Case ID | Status
-REQ_01          | User Login    |           TC_01, TC_02 | Pass
-REQ_02 | Add to Cart | TC_03 | Pass
-REQ_03 | Checkout | TC_04 | Fail
-
 # Test Plan – Demoblaze
 
 ## Objective
