@@ -127,5 +127,24 @@ To verify that the Demoblaze website works as expected and is free from major de
 ## Risks
 - Network issues
 - Test environment instability
+- 
+
+# Test Summary Report
+
+## Total Test Cases
+4
+
+## Passed
+3
+
+## Failed
+1
+
+## Defects Found
+2
+
+## Conclusion
+Application is stable with minor defects.
+
 
 
