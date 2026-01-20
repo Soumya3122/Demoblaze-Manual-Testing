@@ -97,4 +97,35 @@ REQ_01          | User Login    |           TC_01, TC_02 | Pass
 REQ_02 | Add to Cart | TC_03 | Pass
 REQ_03 | Checkout | TC_04 | Fail
 
+# Test Plan – Demoblaze
+
+## Objective
+To verify that the Demoblaze website works as expected and is free from major defects.
+
+## Scope
+- Login & Signup
+- Cart functionality
+- Order placement
+
+## Test Environment
+- Browser: Chrome
+- OS: Windows 10
+- Network: Stable Internet
+
+## Test Strategy
+- Manual testing approach
+- Black box testing
+
+## Entry Criteria
+- Application is accessible
+- Test data is available
+
+## Exit Criteria
+- All test cases executed
+- High severity bugs closed
+
+## Risks
+- Network issues
+- Test environment instability
+
 
