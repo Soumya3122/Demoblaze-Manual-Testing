@@ -74,10 +74,10 @@ To verify that the Demoblaze web application functions correctly and meets user 
 
 ## Test Results
 - Passed: 3
-- Failed: 1
+- Failed: 3
 
 ## Defects Identified
-2
+2          
 # Test Plan – Demoblaze
 
 ## Objective
@@ -113,13 +113,13 @@ To verify that the Demoblaze website works as expected and is free from major de
 # Test Summary Report
 
 ## Total Test Cases
-4
+6
 
 ## Passed
 3
 
 ## Failed
-1
+3
 
 ## Defects Found
 2
